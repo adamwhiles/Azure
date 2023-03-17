@@ -25,7 +25,7 @@
 .NOTES
     FileName:    AddDeviceToGroup.ps1
     Author:      Adam Whiles
-    Created:     2023-03-17
+    Created:     2023-03-16
     Version history:
     1.0.0 - (3/16/2023) Script created.
 #>
